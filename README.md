@@ -8,12 +8,21 @@ I build hands-on projects focused on **networking, IT support, system administra
 
 ## 🌐 Networking Projects
 
-- ### Cisco Network Configuration & Troubleshooting
-  **Cisco Packet Tracer • IPv4 • DNS • DHCP • Troubleshooting**
-  
-  A small business network built and troubleshot from the ground up, including IP addressing, default gateways, DNS configuration, connectivity testing, and fault isolation.
-  
-  ➜ [View Project](./projects/network-troubleshooting-lab)
+### Botabota Office Solutions — Small Business Network
+
+**Cisco Packet Tracer · Networking · IT Support**
+
+Designed and troubleshot a small business network from the ground up, starting with a basic LAN and evolving it into a segmented network with departmental VLANs, centralized DHCP, DNS, and inter-VLAN routing.
+
+**What I worked on**
+
+* 🖧 Designed the network topology and IP addressing scheme
+* 🔀 Implemented VLANs for IT, Sales, Finance, and Servers
+* ⚙️ Configured DHCP, DHCP relay, DNS, and router-on-a-stick
+* 🔍 Investigated and resolved realistic network support incidents
+* 📋 Documented troubleshooting steps, root causes, and verification
+
+**[View Project →](https://github.com/Montwana/botabota-office-network)**
 
 - ### Network Design & Configuration
   **Cisco • Network Topology • IP Addressing • Connectivity**
