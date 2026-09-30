@@ -22,7 +22,7 @@ Designed and troubleshot a small business network from the ground up, starting w
 * 🔍 Investigated and resolved realistic network support incidents
 * 📋 Documented troubleshooting steps, root causes, and verification
 
-**[View Project →](https://github.com/Montwana/botabota-office-network)**
+**[View Project →](https://github.com/Montwana/botabota_office_network)**
 
 - ### Network Design & Configuration
   **Cisco • Network Topology • IP Addressing • Connectivity**
