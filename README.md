@@ -19,6 +19,8 @@ I build hands-on projects focused on **networking, IT support, system administra
 
 ---
 
+## 🖥️ IT Support Projects
+
 ### IT Service Desk Operations
 
 **Spiceworks · Ticket Management · Incident Troubleshooting · Knowledge Base**
@@ -26,9 +28,7 @@ I build hands-on projects focused on **networking, IT support, system administra
 - Managed simulated support tickets involving Outlook, printer and network issues.
 - Created troubleshooting guides and documented incident resolutions.
 
-**[View Project →]((https://github.com/Montwana/IT-Service-Desk-Operations))**
-
-## 🖥️ IT Support Projects
+**[View Project →](https://github.com/Montwana/IT-Service-Desk-Operations)**
 
 ### Microsoft 365 User Guide
 **Microsoft 365 · Outlook · Teams · OneDrive · Technical Documentation**
@@ -37,12 +37,6 @@ I build hands-on projects focused on **networking, IT support, system administra
 - Documented application features and practical solutions to common user challenges.
 
 **[View Project →](./projects/microsoft-365-user-guide)**
-
-### Windows Administration & Troubleshooting Lab
-**Windows · User Management · System Administration · Troubleshooting**
-
-- Practised Windows administration and user account management.
-- Investigated common desktop support issues and documented their resolutions.
 
 ---
 
