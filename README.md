@@ -26,7 +26,7 @@ I build hands-on projects focused on **networking, IT support, system administra
 - Managed simulated support tickets involving Outlook, printer and network issues.
 - Created troubleshooting guides and documented incident resolutions.
 
-[**View Project →**]((https://github.com/Montwana/IT-Service-Desk-Operations))
+**[View Project →]((https://github.com/Montwana/IT-Service-Desk-Operations))**
 
 ## 🖥️ IT Support Projects
 
