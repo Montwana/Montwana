@@ -50,6 +50,10 @@ I build hands-on projects focused on **networking, IT support, system administra
 
 `Windows` `Linux` `PowerShell` `Command Prompt`
 
+**IT Support**
+
+`Spiceworks` `Ticket Management` `Incident Management` `Troubleshooting` `Knowledge Base` `Documentation`
+
 **Tools**
 
 `Git` `GitHub`
