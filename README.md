@@ -36,7 +36,7 @@ I build hands-on projects focused on **networking, IT support, system administra
 - Developed step-by-step user guides covering Microsoft 365 applications and common tasks.
 - Documented application features and practical solutions to common user challenges.
 
-**[View Project →](./projects/microsoft-365-user-guide)**
+**[View Project →](https://github.com/Montwana/microsoft-365-user-guide)**
 
 ---
 
