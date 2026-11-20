@@ -1,72 +1,108 @@
-# Hi, I'm Matshidiso!
+# Hi, I'm Matshidiso👋
 
-### IT Support | Network Engineering
+### Computer Networking | Network Engineering | IT Infrastructure
 
-I build hands-on projects focused on **networking, IT support, system administration, and troubleshooting**.
+I'm a Bachelor of Information and Communication Technology graduate with a strong interest in computer networking, network infrastructure and IT systems.
+
+I enjoy building practical networking environments, configuring network services and troubleshooting connectivity issues. Through hands-on projects and continuous learning, I'm developing my skills in network administration, routing, switching and IT infrastructure.
+
+[GitHub](https://github.com/Montwana) · [LinkedIn](https://www.linkedin.com/in/matshidiso-botabota-ict)
 
 ---
 
 ## 🌐 Networking Projects
 
 ### Botabota Office Solutions — Small Business Network
-**Cisco Packet Tracer · VLANs · DHCP · DNS · Network Troubleshooting**
 
-- Designed and configured a functional small-business network with departmental VLANs and inter-VLAN routing.
-- Implemented centralized DHCP, DNS and DHCP relay services.
-- Resolved network connectivity and DNS issues through systematic troubleshooting.
+**Cisco Packet Tracer | VLANs | DHCP | DNS | Inter-VLAN Routing**
 
-**[View Project →](https://github.com/Montwana/botabota_office_network)**
+Designed and configured a simulated small-business network to demonstrate practical network engineering and administration skills.
+
+- Designed a network topology connecting multiple departments and network devices.
+- Configured departmental VLANs and inter-VLAN routing.
+- Implemented DHCP, DNS and DHCP relay services.
+- Configured network addressing and default gateways.
+- Investigated and resolved simulated IP addressing, DNS and connectivity issues.
+
+[**View Project →**](https://github.com/Montwana/botabota_office_network)
 
 ---
 
-## 🖥️ IT Support Projects
+## 🖥️ IT Support & Infrastructure Projects
 
 ### IT Service Desk Operations
 
-**Spiceworks · Ticket Management · Incident Troubleshooting · Knowledge Base**
+**Spiceworks | Incident Management | Network Troubleshooting | Ticket Management**
 
-- Managed simulated support tickets involving Outlook, printer and network issues.
-- Created troubleshooting guides and documented incident resolutions.
+Developed a simulated IT service desk environment to practise technical support and incident management.
 
-**[View Project →](https://github.com/Montwana/IT-Service-Desk-Operations)**
+- Managed simulated incidents involving network connectivity, printers and Microsoft Outlook.
+- Applied structured troubleshooting techniques to investigate technical issues.
+- Documented investigation findings, resolutions and knowledge base articles.
 
-### Microsoft 365 User Guide
-**Microsoft 365 · Outlook · Teams · OneDrive · Technical Documentation**
-
-- Developed step-by-step user guides covering Microsoft 365 applications and common tasks.
-- Documented application features and practical solutions to common user challenges.
-
-**[View Project →](https://github.com/Montwana/microsoft-365-user-guide)**
+[**View Project →**](https://github.com/Montwana/IT-Service-Desk-Operations)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Networking & Technical Skills
 
-**Networking**
+### Networking
+`TCP/IP` `IPv4` `Subnetting` `VLANs` `DNS` `DHCP` `Inter-VLAN Routing` `Cisco Packet Tracer`
 
-`Cisco Packet Tracer` `TCP/IP` `IPv4` `DNS` `DHCP` `Subnetting`
+### Network Infrastructure
+`Network Configuration` `IP Address Management` `Network Troubleshooting` `Connectivity Testing` `LAN/WAN Fundamentals`
 
-**Systems**
-
+### Systems Administration
 `Windows` `Linux` `PowerShell` `Command Prompt`
 
-**IT Support**
+### IT Support
+`Spiceworks` `Ticket Management` `Incident Management` `Hardware & Software Troubleshooting` `Technical Documentation`
 
-`Spiceworks` `Ticket Management` `Incident Management` `Troubleshooting` `Knowledge Base` `Documentation`
+### Tools & Technologies
+`Git` `GitHub` `Python` `Microsoft 365`
 
-**Tools**
+---
 
-`Git` `GitHub`
+## 🏆 Achievements & Recognition
+
+### 1st Place — Mpumalanga Artificial Intelligence Student Hackathon (MAISH)
+
+**Agri-Smart Prototype**
+
+Achieved first place for contributing to the development of an AI-powered agricultural solution that identifies potential crop pests and diseases using image analysis.
+
+**Technologies:** Python · OpenCV · TensorFlow/Keras · Flask
+
+### IBM Datathon — Participant
+
+Participated in an IBM Datathon, gaining experience in collaborative problem-solving and data-driven technology challenges.
+
+---
+
+## 🎓 Education
+
+### Bachelor of Information and Communication Technology
+
+**University of Mpumalanga | May 2026**
+
+Academic highlights:
+- Distinctions in Programming, Data Structures and Algorithms, Cybersecurity, Principles of Software Engineering and Web Development.
 
 ---
 
 ## 📚 Currently Learning
 
-`Network Engineering` • `Cisco Networking` • `Windows Administration` • `Linux` • `IT Support`
+- Computer Networking and Network Engineering
+- Cisco Routing and Switching
+- Network Administration
+- Windows and Linux System Administration
+- Network Security Fundamentals
 
 ---
 
 ## 🤝 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Montwana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matshidiso-botabota-ict)
+Interested in opportunities in computer networking, network support, IT infrastructure and technical support.
+
+- [GitHub](https://github.com/Montwana)
+- [LinkedIn](https://www.linkedin.com/in/matshidiso-botabota-ict)
